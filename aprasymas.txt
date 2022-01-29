@@ -1,0 +1,16 @@
+This mod makes minor, but significant changes to some of parameters. It changes starting capacity limits and alters maps (medium, large and huge) to support more empires.
+• Changes in strategic resources (00_strategic_resources.txt): 
+ Max resources are set to 500k;
+ Influence capacity - 2k;
+• Adds custom maps:
+ "Huge (mod)" map allows to spawn up to 99 empires, up to 5 FE;
+ "Large (mod)" map allows to spawn up to 59 empires, up to 5 (4 recommended) FE;
+ "Medium (mod)" map allows to spawn up to 39 empires, up to 5 (3 recommended) FE.
+ 
+[h1] Please check out my mods:[/h1]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814332008] United Sci-Fi races (200+ races) [/url] 
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=850721710] United traits (70+ traits) [/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=873063455] Extended Vanilla Clothes (1100+ clothes)[/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1142647596] United Sci-Fi: Robots (includes extended SD portraits) [/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=814854383] United Flags (various Sci-Fi and other flag collection)[/url]
+• [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1155559318] United Small Tweaks (minor changes for gameplay)[/url]
